@@ -1,0 +1,24 @@
+#animeCardTitle {
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
+#animeQuote {
+  font-style: italic;
+}
+
+.loading {
+  font-style: italic;
+}
+
+.typedName {
+  font-weight: bold;
+}
+
+.userImage {
+  max-height: 300px;
+}
+
+.kanyePic {
+  height: 180px;
+}
